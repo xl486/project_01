@@ -1,1 +1,4 @@
-
+body,
+head {
+    background-color: aqua;
+}
